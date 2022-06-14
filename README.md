@@ -5,10 +5,11 @@ Login Page:
 
 ![image](https://user-images.githubusercontent.com/46500835/173475406-821b0e8c-1018-4a3d-b273-d3e210a425eb.png)
 
-Landing Page:
+Manager Landing Page:
 
 ![image](https://user-images.githubusercontent.com/46500835/173475514-49ecf3d0-d6a7-4e9d-9cde-f5990ce6a0eb.png)
 
-Adding Customer:
+Customer Landing Page:
 
-![image](https://user-images.githubusercontent.com/46500835/173475562-c4fd400e-cfe5-45b9-8235-5f9518552dd1.png)
+![image](https://user-images.githubusercontent.com/46500835/173477013-532dcf9b-e667-4d0c-b942-e75edfea42a2.png)
+
